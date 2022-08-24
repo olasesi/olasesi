@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sesi</h1>
+<h1 align="center">Hi 👋, I'm Olusesi Ahmed</h1>
 
 <div id="header" align="center">
   <img src="https://cms.webcreatify.com/gallery/68005-superhighway-1.png" width="300" height="100"/>
