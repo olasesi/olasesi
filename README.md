@@ -34,13 +34,13 @@
 
 ### **My Stats :**
 <a href="https://github.com/olasesi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=germavinsmoke&hide=issues&show_icons=true&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=olasesi&hide=issues&show_icons=true&theme=radical&hide_border=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=germavinsmoke&layout=compact&theme=radical&hide_border=true" />
+<a href="https://github.com/olasesi/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olasesi&layout=compact&theme=radical&hide_border=true" />
 </a>
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=germavinsmoke&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=olasesi&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </a>
 <hr/>
 
