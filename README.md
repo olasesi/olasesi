@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Olusesi Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Olusesi Ahmed Oladipupo</h1>
 
 <div id="header" align="center">
   <img src="https://cms.webcreatify.com/gallery/68005-superhighway-1.png" width="300" height="100"/>
@@ -49,9 +49,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Laravel, Vue and React.
-- 🌱 I’m currently learning AWS services
-- 👯 I’m looking to collaborate on Laravel, Vue and React
+- 🔭 I’m currently working on PHP(Laravel), Node(Express), Vue, Nuxt, React and Next.
+- 👯 I will be willing to collaborate
 <!--- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about Fullstack development
 <!--- 📫 How to reach me: ...
